@@ -13,14 +13,19 @@ We created this organization to:
 ## 📦 What You'll Find Here
 
 – Minimal repositories that demonstrate specific bugs or unexpected behavior (often linked from support tickets)
+
 – Fully functional examples showing how to set up Chromatic with Storybook, Next.js, Gatsby, Angular, and more
+
 – Helper scripts, GitHub Actions, and other tools to streamline your visual testing process
+
 – Proof-of-concept projects and retired examples (kept for reference)
 
 ## 🔍 How to Use This Organization
 
 Search for a topic – Use the organization search bar to find repos related to your framework or question.
+
 Open an issue – If you're a customer working with our support team, we may ask you to fork one of our reproduction templates and describe your problem there.
+
 Explore examples – Browse our public repositories to see how others have integrated Chromatic.
 
 ## 🆘 Important links
